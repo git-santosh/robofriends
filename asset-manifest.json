@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/git-santosh/robofriends/static/css/main.6c47b857.chunk.css",
+    "main.js": "/git-santosh/robofriends/static/js/main.fc1bc6af.chunk.js",
+    "main.js.map": "/git-santosh/robofriends/static/js/main.fc1bc6af.chunk.js.map",
+    "runtime-main.js": "/git-santosh/robofriends/static/js/runtime-main.67f49927.js",
+    "runtime-main.js.map": "/git-santosh/robofriends/static/js/runtime-main.67f49927.js.map",
+    "static/css/2.036b41f9.chunk.css": "/git-santosh/robofriends/static/css/2.036b41f9.chunk.css",
+    "static/js/2.800020c3.chunk.js": "/git-santosh/robofriends/static/js/2.800020c3.chunk.js",
+    "static/js/2.800020c3.chunk.js.map": "/git-santosh/robofriends/static/js/2.800020c3.chunk.js.map",
+    "index.html": "/git-santosh/robofriends/index.html",
+    "precache-manifest.74ee8146070c2e78bf8826fc42e176f3.js": "/git-santosh/robofriends/precache-manifest.74ee8146070c2e78bf8826fc42e176f3.js",
+    "service-worker.js": "/git-santosh/robofriends/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/git-santosh/robofriends/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.6c47b857.chunk.css.map": "/git-santosh/robofriends/static/css/main.6c47b857.chunk.css.map",
+    "static/js/2.800020c3.chunk.js.LICENSE.txt": "/git-santosh/robofriends/static/js/2.800020c3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/git-santosh/robofriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67f49927.js",
+    "static/css/2.036b41f9.chunk.css",
+    "static/js/2.800020c3.chunk.js",
+    "static/css/main.6c47b857.chunk.css",
+    "static/js/main.fc1bc6af.chunk.js"
+  ]
+}
