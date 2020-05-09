@@ -13,14 +13,14 @@ const mapStateToProps = (state) => {
     searchField: state.searchRobots.searchField,
     robots: state.requestRobots.robots,
     isPending: state.requestRobots.isPending,
-    error: state.requestRobots.error,
+    error: state.requestRobots.error
   };
 };
 
 const mapDispachToProps = (dispatch) => {
   return {
-    onSearch: (event) => setSearchField(event.target.value),
-    onRequestRobots: () => dispatch(requestRobots()),
+    onSearch: (event) => dispatch(setSearchField(event.target.value)),
+    onRequestRobots: () => dispatch(requestRobots())
   };
 };
 class App extends React.Component {
@@ -60,11 +60,11 @@ class App extends React.Component {
         <div className="tc">
           <h1 className="f1">RoboFriends</h1>
           <SearchBox searchChange={onSearch} />
-          {/* <Scroll> */}
+          <Scroll>
             <ErrorBoundry>
               <CardList robots={filterRobots} />
             </ErrorBoundry>
-          {/* </Scroll> */}
+          </Scroll>
         </div>
       );
     }
